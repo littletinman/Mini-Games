@@ -1,2 +1,2 @@
-# Love2D-Playground
-Love2D Games
+# Mini Games
+Single file, minimal graphics
